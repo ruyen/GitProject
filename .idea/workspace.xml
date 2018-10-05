@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c6e0fc30-3461-42fe-9cb0-2797783f5ca8" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/Topic Modeling.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Topic Modeling.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="c6e0fc30-3461-42fe-9cb0-2797783f5ca8" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,17 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Topic Modeling.ipynb" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Topic Modeling.ipynb">
-          <provider selected="true" editor-type-id="ipnb-editor">
-            <state>
-              <selected id="0" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
