@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6e0fc30-3461-42fe-9cb0-2797783f5ca8" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Stock prediction model -checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Stock prediction model -checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Stock prediction model .ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Stock prediction model .ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -32,9 +32,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="10" />
-    <option name="y" value="33" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-2550" />
+    <option name="y" value="63" />
     <option name="width" value="1305" />
     <option name="height" value="934" />
   </component>
@@ -86,9 +86,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="10" y="33" width="1305" height="934" extended-state="0" />
+    <frame x="-2550" y="63" width="1305" height="934" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.253365" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25732383" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="R Packages" order="3" />
       <window_info anchor="right" id="R Graphics" order="3" />
@@ -97,7 +97,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3297491" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3297491" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
